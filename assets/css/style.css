@@ -208,5 +208,25 @@
         border: 2px solid #778899;
     }
     
+    
+    @media only screen and (max-width: 700) {
+        .mainNav {
+          width: 520px;          
+        }
+
+        .mainDiv{
+            width: 520px;
+        }
+      }
+
+      @media only screen and (max-width: 400px) {
+        .mainNav {
+            width: 320px;          
+          }
+  
+          .mainDiv{
+              width: 320px;
+          }
+      }
 
     
