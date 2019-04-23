@@ -64,7 +64,7 @@
         width: 1160px;
         margin-bottom: 20px;
         margin-right: auto;
-        background: #ffffff;
+        margin-left: 250px;
         border-color: #cccccc;
         font-family: Georgia, 'Times New Roman', Times, serif;
         padding-right: 550px;
@@ -94,7 +94,7 @@
         color: #ffffff;
         font-family: Georgia, 'Times New Roman', Times, serif;
         background: #4aaaa5;
-        margin-left: 255px;
+        margin-left: 0px;
         padding-left: 30px;
         padding-right: 20px;
     }
@@ -128,6 +128,15 @@
         margin-right: auto;
         width: 960px;       
         height: 600px;
+        background-color: #ffffff;
+    }
+
+    .headerNav{
+        margin-left: 270px;
+        margin-right: auto;
+        width: 960px; 
+        height: 68px;
+        align-content: center;      
         background-color: #ffffff;
     }
 
